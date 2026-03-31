@@ -16,4 +16,4 @@
 
 #### Se agrego *lint-markdown*
 
-#### Se agrego *.markdownlint.json*s
+#### Se agrego *.markdownlint.json*
